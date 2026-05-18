@@ -525,7 +525,7 @@ export default function Portfolio() {
                 position: "relative",
               }}>
                 <img
-                  src="https://i.postimg.cc/VsbMhGVN/a-professional-studio-portrait-of-a-man-76ZMWF05T0i-Bz-T-m5Xg-K2g-Znl-Hil-ZPQw-Z5d478Sw--Jw-Q.jpg"
+                  src="https://i.postimg.cc/D0QtqVwd/IMG-3752.png"
                   alt="Foster Setor"
                   style={{
                     width: "100%", height: "100%",
